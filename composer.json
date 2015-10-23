@@ -2,7 +2,7 @@
     "name": "clearcutcoding/devtools",
     "autoload": {
         "psr-0" : {
-            "" : "src"
+            "ClearCutCoding\\DevTools" : "src"
         }
     }
 }
