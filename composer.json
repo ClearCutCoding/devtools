@@ -1,0 +1,8 @@
+{
+    "name": "clearcutcoding-devtools",
+    "autoload": {
+        "psr-0" : {
+            "" : "src"
+        }
+    }
+}
