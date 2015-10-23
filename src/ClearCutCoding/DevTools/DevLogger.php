@@ -6,7 +6,7 @@
  * @version 1.0
  */
 
-namespace ClearCutCoding\WebBundle\Helpers;
+namespace ClearCutCoding\DevTools;
 
 use Silex\Application;
 
