@@ -1,4 +1,4 @@
-# Clear Cut Coding - Dev Tools
+# Dev Tools
 
 Adds some tools to help with PHP development.
 
